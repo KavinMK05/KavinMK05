@@ -1,7 +1,8 @@
 # Kavin MK
-<iframe style="text-align:center" src="https://leetcard.jacoblin.cool/KavinMK05?ext=heatmap" title="Leetcode"></iframe>
-  
-![](https://leetcard.jacoblin.cool/KavinMK05?ext=heatmap)
+
+<div align="center">
+    <iframe src="https://leetcard.jacoblin.cool/KavinMK05?ext=heatmap" width="600" height="400"></iframe>
+</div>
 
 <div align="center">
   <h3>Languages</h3>
