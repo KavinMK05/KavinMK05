@@ -18,6 +18,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,android" />
+    <img src="https://skillicons.dev/icons?i=flutter,kmp" />
   </a>
 </p>
