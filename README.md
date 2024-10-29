@@ -14,10 +14,10 @@
   </a>
 </p>
 <div align="center">
-  <h3>Languages</h3>
-</div><br/>
+  <h3>Tech Stacks</h3>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,python,java,html,js,css,dart,kotlin" />
+    <img src="https://skillicons.dev/icons?i=flutter,android" />
   </a>
 </p>
